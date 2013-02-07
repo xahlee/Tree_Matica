@@ -4,7 +4,7 @@
 
 About 30 nested-list processing functions in Perl, implementing the ones in Mathematica.
 
-these files dates around 2000 to 2003.
+this package dates around 1998 to 2003.
 
 
 
